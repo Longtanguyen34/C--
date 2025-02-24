@@ -1,0 +1,106 @@
+MI1111, Calculus I, 4
+MI1121, Calculus II, 3
+MI1131, Calculus III, 3
+MI1141, Algebra, 4
+MI2020, Statistics, 3
+MI2010, Numerical Methods, 2
+PH1111, General Physics I, 2
+PH1121, General Physics II, 2
+EM1170, Basic Law, 2
+SSH1111, Marxist-Leninist Philosophy, 3
+SSH1121, Political Economy, 2
+SSH1131, Scientific Socialism, 2
+SSH1141, History of the Communist Party, 2
+SSH1151, Ho Chi Minh's Thought, 2
+ET2000, Introduction to Electronic Engineering, 2
+ET4900, Bachelor Thesis, 6
+ET3180, Wireless Communications, 3
+ET3250, Digital Information, 3
+ET3311, Information Security, 3
+ET4032, Analog IC Design, 2
+ET4060, Object-Oriented Analysis and Design, 3
+ET4245, Artificial Intelligence and Applications, 3
+ET4340, VLSI Design, 3
+ET4435, Parallel Programming, 2
+ET2021, Basic Internship, 2
+ET2022, Technical Writing and Presentation, 3
+ET2031, C/C++ Programming Techniques, 2
+ET2042, Electronic Components, 2
+ET2050, Circuit Theory, 3
+ET2060, Signal and System, 3
+ET2072, Information Theory, 2
+ET2082, Electronic Measurements, 3
+ET2100, Data Structures and Algorithms, 2
+ET3220, Digital Electronics, 3
+ET3231, Analog Electronics, 3
+ET3291, Software Design Project, 2
+ET3300, Microprocessor Techniques, 3
+ET4012, Hardware Design Project, 2
+ET4231, Computer Networks and IoT, 3
+ET4260, Multimedia, 2
+ET4292, Operating Systems, 3
+ET4321, Ultra High Frequency Principles, 3
+ET4361, Embedded Systems and Communication Design, 3
+ET3270, Technical Internship, 2
+ET3262, Technological Thinking and Artistic Design, 2
+MIL1210, The Policy and Security Path of Vietnam's DCS, 0
+MIL1220, National Defense and Security Work, 0
+MIL1230, General Military Science, 0
+MIL1240, Techniques of Combat Operations and Tactics, 0
+PE1015, Hand Sports, 0
+PE2261, Karate, 0
+PE2101, Volleyball I, 0
+PE2151, Aerobics, 0
+PE2201, Football I, 0
+PE2251, Taekwondo I, 0
+PE2301, Basketball I, 0
+PE2401, Table Tennis I, 0
+PE2501, Badminton I, 0
+PE2601, Running, 0
+PE2701, High Jump, 0
+PE2801, Long Jump, 0
+PE2901, Javelin and Discus, 0
+PE3101, Advanced Volleyball I, 0
+PE3102, Advanced Volleyball II, 0
+PE3103, Advanced Volleyball III, 0
+PE3201, Advanced Football I, 0
+PE3202, Advanced Football II, 0
+PE3203, Advanced Football III, 0
+PE3301, Advanced Basketball I, 0
+PE3302, Advanced Basketball II, 0
+PE3303, Advanced Basketball III, 0
+PE2102, Volleyball II, 0
+PE2202, Football II, 0
+PE2252, Taekwondo II, 0
+PE2302, Basketball II, 0
+PE2402, Table Tennis II, 0
+PE2502, Badminton II, 0
+PE3104, Advanced Volleyball IV, 0
+PE3204, Advanced Football IV, 0
+PE3304, Advanced Basketball IV, 0
+PE2103, Volleyball III, 0
+PE2203, Football III, 0
+PE2253, Taekwondo III, 0
+PE2303, Basketball III, 0
+PE2403, Table Tennis III, 0
+PE2503, Badminton III, 0
+PE3105, Advanced Volleyball V, 0
+PE3205, Advanced Football V, 0
+PE3305, Advanced Basketball V, 0
+PE1014, Sports Theory, 0
+PE1024, Swimming, 0
+IT1110, Introduction to Computer Science, 4
+JP1111, Japanese I, 0
+JP1121, Japanese II, 0
+JP1134, Japanese III, 0
+JP2113, Japanese IV, 0
+JP2123, Japanese V, 4
+JP2124, Japanese VI, 4
+JP2125, Japanese VII, 3
+CH2021, Innovation and Entrepreneurship, 2
+ED3220, Soft Skills, 2
+ED3280, Applied Psychology, 2
+EM1010, Introduction to Management, 2
+EM1180, Business Culture and Entrepreneurship Spirit, 2
+ME3123, Industrial Design, 2
+ME3124, Product Advertising Design, 2

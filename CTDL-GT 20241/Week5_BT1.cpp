@@ -1,34 +1,37 @@
-#include <iostream>
-using namespace std;
-void swap(int &a,int &b )
-{
-      int temp = a;
-      a = b;
-      b = temp;
-}
+#include <stdio.h>
 
-void selectionSort(int arr[], int n)
-{
-    int i, j, min_idx; 
-    for (i = 0; i < n - 1; i++)
-    { 
-        min_idx = i;
-        for (j = i + 1; j < n; j++)
-            if (arr[j] < arr[min_idx])
-                min_idx = j;
-
-        swap(arr[min_idx], arr[i]);
-        for (int i = 0; i < n; i++)
-        cout << arr[i] << " ";
-        cout << endl;
+void dutch_national_flag_sort(int arr[], int n) {
+    int low = 0, mid = 0, high = n - 1;
+    while (mid <= high) {
+        switch (arr[mid]) {
+            case 0: // Màu đỏ
+                arr[low] = arr[low] + arr[mid] - (arr[mid] = arr[low]);
+                low++;
+                mid++;
+                break;
+            case 1: // Màu trắng
+                mid++;
+                break;
+            case 2: // Màu xanh
+                arr[high] = arr[high] + arr[mid] - (arr[mid] = arr[high]);
+                high--;
+                break;
+        }
     }
 }
 
+void print_array(int arr[], int n) {
+    for (int i = 0; i < n; i++) {
+        printf("%d ", arr[i]);
+    }
+    printf("\n");
+}
 
-int main()
-{
-    int A[12]={240,73,101,21,13,25,11,37,89,30,15,51};
-    cout << "Selection sort:" << endl;
-    selectionSort(A, 12);
-
+int main() {
+    int colors[] = {2, 0, 2, 0, 0, 1, 0, 2, 1};
+    int n = sizeof(colors) / sizeof(colors[0]);
+    dutch_national_flag_sort(colors, n);
+    printf("Mảng sau khi sắp xếp: ");
+    print_array(colors, n);
+    return 0;
 }
